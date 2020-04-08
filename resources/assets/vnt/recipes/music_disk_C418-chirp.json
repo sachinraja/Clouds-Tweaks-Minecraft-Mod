@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OSS",
+        "SRS",
+        "SSO"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        
+        "R":
+        {
+            "item":"minecraft:dye",
+            "data": 1
+        },
+        
+        "O":
+        {
+            "item":"minecraft:dye",
+            "data": 14
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:record_chirp",
+        "count": 1
+    }
+}

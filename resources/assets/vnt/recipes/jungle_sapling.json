@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L",
+        "L",
+        "S"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item":"minecraft:leaves",
+            "data": 3
+        },
+        
+        "S":
+        {
+            "item":"minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:sapling",
+        "data": 3,
+        "count": 1
+    }
+}

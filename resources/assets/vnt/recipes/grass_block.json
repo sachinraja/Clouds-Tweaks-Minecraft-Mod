@@ -1,0 +1,47 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G",
+        "D"
+    ],
+    
+    "key":
+    {
+        "G": [
+        {
+            "item":"minecraft:double_plant",
+            "data": 2  
+        },
+        
+        {
+            "item":"minecraft:double_plant",
+            "data": 3
+        },
+        
+        {
+            "item":"minecraft:tallgrass",
+            "data": 1
+        },
+        
+        {
+            "item":"minecraft:tallgrass",
+            "data": 2
+        }
+        
+        ],
+        
+        "D":
+        {
+            "item":"minecraft:dirt",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:grass",
+        "count": 1
+    }
+}

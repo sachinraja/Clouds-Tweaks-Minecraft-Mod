@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DO"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:dirt",
+            "data": 0
+        },
+        
+        "O":
+        {
+            "item":"minecraft:dye",
+            "data": 14
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:dirt",
+        "data": 2,
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PPP",
+        "PWP",
+        "PPP"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item":"minecraft:concrete_powder",
+            "data": 7
+        },
+        
+        "W":
+        {
+            "item":"minecraft:water_bucket"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:concrete",
+        "data": 7,
+        "count": 8
+    }
+}

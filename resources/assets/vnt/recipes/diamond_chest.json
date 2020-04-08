@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:chest"
+    },
+
+    {
+      "item": "minecraft:diamond"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "vnt:diamond_chest",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vnt",
+  "name": "Vanilla Tweaks",
+  "description": "Changes and adds some vanilla crafting recipes.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xCloudfox"],
+  "credits": "TechnoVision for the tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

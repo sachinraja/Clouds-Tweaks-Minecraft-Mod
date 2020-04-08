@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "MPM",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        
+        "P":
+        {
+            "item":"minecraft:dye",
+            "data": 5
+        },
+        
+        "M":
+        {
+            "item":"minecraft:dye",
+            "data": 13
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:record_mall",
+        "count": 1
+    }
+}

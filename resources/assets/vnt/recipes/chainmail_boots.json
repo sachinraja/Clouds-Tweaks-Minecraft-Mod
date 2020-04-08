@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:iron_bars"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:chainmail_boots",
+        "count": 1
+    }
+}
