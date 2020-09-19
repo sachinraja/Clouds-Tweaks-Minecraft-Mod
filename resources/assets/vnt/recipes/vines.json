@@ -1,0 +1,51 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L L",
+        "LLL",
+        "L L"
+    ],
+    
+    "key":
+    {
+        "L": [
+      {
+        "item": "minecraft:leaves",
+        "data": 0
+      },
+      
+      {
+        "item": "minecraft:leaves",
+        "data": 1
+      },
+      
+      {
+        "item": "minecraft:leaves",
+        "data": 2
+      },
+      
+      {
+        "item": "minecraft:leaves",
+        "data": 3
+      },
+      
+      {
+        "item": "minecraft:leaves2",
+        "data": 0
+      },
+      
+      {
+        "item": "minecraft:leaves2",
+        "data": 1
+      }
+    ]
+    },
+    
+    "result":
+    {
+        "item": "minecraft:vine",
+        "count": 3
+    }
+}

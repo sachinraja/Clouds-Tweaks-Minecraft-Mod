@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "E E",
+        "E E"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item":"minecraft:emerald"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vnt:emerald_boots",
+        "count": 1
+    }
+}

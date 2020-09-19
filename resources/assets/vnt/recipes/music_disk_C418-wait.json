@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "SLS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        
+        "L":
+        {
+            "item":"minecraft:dye",
+            "data": 12
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:record_wait",
+        "count": 1
+    }
+}

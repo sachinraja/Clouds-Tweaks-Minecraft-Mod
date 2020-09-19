@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "YLY",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        
+        "L":
+        {
+            "item":"minecraft:dye",
+            "data": 10
+        },
+        
+        "Y":
+        {
+            "item":"minecraft:dye",
+            "data": 11
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:record_far",
+        "count": 1
+    }
+}

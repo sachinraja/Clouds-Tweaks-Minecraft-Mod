@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LSW"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "minecraft:lava_bucket"
+        },
+        
+        "S":
+        {
+            "item":"minecraft:stone",
+            "data": 0
+        },
+        
+        "W":
+        {
+            "item":"minecraft:water_bucket"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:cobblestone",
+        "count": 1
+    }
+}

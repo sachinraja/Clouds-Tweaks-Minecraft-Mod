@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "MBM",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        
+        "B":
+        {
+            "item":"minecraft:dye",
+            "data": 15
+        },
+        
+        "M":
+        {
+            "item":"minecraft:dye",
+            "data": 13
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:record_mellohi",
+        "count": 1
+    }
+}

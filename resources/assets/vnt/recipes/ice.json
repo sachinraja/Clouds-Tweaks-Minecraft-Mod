@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:water_bucket"
+        },
+        
+        "S":
+        {
+            "item":"minecraft:snow"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:ice",
+        "count": 2
+    }
+}

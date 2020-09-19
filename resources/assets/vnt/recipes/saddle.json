@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "S S"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:carpet",
+            "data": 1
+        },
+        
+        "S":
+        {
+            "item":"minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}
